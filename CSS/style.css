@@ -1,0 +1,61 @@
+
+body {
+    font-family: 'Jersey 25', sans-serif;
+    color : white !important;
+    background-color: #739a9a;
+    margin: 0;
+    padding: 0;
+    /* box-sizing: border-box; */
+}
+
+.header{
+    background-color: #333;
+    color: white;
+    font-size: 2.5em;
+    padding: 1px;
+    text-align: center;
+}
+.jersey-25-regular {
+    font-family: "Jersey 25", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+
+ .par {
+    font-size: 3em;
+    text-align: center;
+    color: white;
+ } 
+
+ .upload-btn {
+    color: white !important;
+    font-size: large;
+    background-color: #333;
+    padding : 10px;
+    display : block;
+    margin : 0 auto;
+    font-size: 2em;
+ }
+
+ /* #preview {
+    /* display: none; */
+    /* width: 100%;
+    height: 100%; */
+    /* position: fixed; */
+    /* top: 0;
+    left: 0; */
+    /* background-color: rgba(0,0,0,0.5); */
+    /* z-index: 1000; */
+    /* text-align: center; */ 
+ /* } */
+ /* #preview img {
+    border: 10px solid black;
+    width: 35%;
+ } */
+
+
+ .image-container {
+   max-width: 100%; 
+   overflow: hidden; /* Ensure the image does not overflow its container */
+   text-align: center;
+}
